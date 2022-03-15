@@ -20,7 +20,6 @@ int main(void)
 			if (((i * 10) + j) < 89)
 			{
 				putchar(',');
-				putchar("");
 			}
 		}
 	}

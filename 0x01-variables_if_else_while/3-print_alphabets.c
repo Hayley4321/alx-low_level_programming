@@ -23,7 +23,7 @@ int main(void)
 			putchar(A);
 			A++;
 		}
-		n++
+		n++;
 	}
 	putchar('\n');
 	return (0);

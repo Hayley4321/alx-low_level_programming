@@ -3,7 +3,7 @@
 *print _alphabet - program that prints the alphabet
 *Return: Always 0
 */
-int print_alphabet(void)
+void print_alphabet(void)
 {
 	char letter;
 

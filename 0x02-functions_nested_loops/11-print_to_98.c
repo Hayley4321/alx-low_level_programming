@@ -58,7 +58,7 @@ void print_to_98(int n)
 		{
 			n = -n;
 
-			for (a = n; a >= 0; a--)
+			for (a = n; a > 0; a--)
 			{
 				_putchar('-');
 				output(a);
